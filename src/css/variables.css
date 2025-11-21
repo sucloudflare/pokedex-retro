@@ -1,0 +1,20 @@
+:root {
+    --electric: #d4b43a;   /* amarelo mais queimado */
+    --grass: #5ba881;      /* verde mais antigo e opaco */
+    --fire: #d46a28;       /* laranja menos saturado */
+    --normal: #8f8f6c;     /* bege acinzentado */
+    --fighting: #99302a;   /* vermelho mais terroso */
+    --water: #5f94c7;      /* azul GBA */
+    --flying: #9083c9;     /* lilás menos vibrante */
+    --poison: #7d3d7d;     /* roxo escuro retrô */
+    --ground: #c3a659;     /* marrom amarelado old school */
+    --psychic: #d04c72;    /* rosa avermelhado retrô */
+    --rock: #9a8737;       /* marrom rochedo clássico */
+    --ice: #7cbcbc;        /* azul gelo mais apagado */
+    --bug: #76c162;        /* verde inseto clássico */
+    --dragon: #5734c6;     /* roxo-azulado GBA */
+    --ghost: #5a4876;      /* roxo fantasma antigo */
+    --dark: #4f443a;       /* marrom escuro GBA */
+    --steel: #9a9ab8;      /* cinza azulado fosco */
+    --fairy: #d68599;      /* rosa suave */
+}
